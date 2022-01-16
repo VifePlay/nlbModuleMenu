@@ -1,0 +1,11 @@
+name: nlbModuleMenu
+version: 1.0
+tree: alpha
+main: ru.naulbimix.nlbModuleMenu.Main
+author: NaulbiMIX
+description:
+  - 'Module'
+  - 'Menu'
+impl: [ModuleAPI, ModuleUser, ModuleMojang, ModuleBukkit]
+manifest: false
+website: https://naulbimix.ru/
